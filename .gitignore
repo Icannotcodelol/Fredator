@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+runs/
+*.onnx
+*.stats.json
+*.zip
+*.log
+.DS_Store
+.env
